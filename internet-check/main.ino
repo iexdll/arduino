@@ -6,7 +6,7 @@
 #include <WiFiClientSecureBearSSL.h>
 
 #define WIFI_SSID "Luna"
-#define WIFI_PASS "9165851488"
+#define WIFI_PASS "999"
 #define USE_SERIAL Serial
 #define PING_HOST "www.google.com"
 
